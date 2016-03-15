@@ -1,2 +1,6 @@
-# Emacs
+#emacs
 *~
+
+#heroku
+vendor/
+.env
