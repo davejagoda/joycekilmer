@@ -38,3 +38,11 @@ Set Github remote:
 Set Heroku remote:
 
 `heroku git:remote -a joycekilmer`
+
+Install Composer locally:
+
+`curl -sS https://getcomposer.org/installer | php`
+
+Use Composer to install local dependencies:
+
+`php composer.phar update`
